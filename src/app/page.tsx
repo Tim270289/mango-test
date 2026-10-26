@@ -17,7 +17,7 @@ import mango10 from "../../public/images/mango-10.jpg";
 const products = [
   {
     name: "愛文芒果NO1111111",
-    origin: "台南 玉井",
+    origin: "台南 玉井 測試",
     desc: "果肉細緻、香氣濃郁，甜中帶微酸，是夏季最經典的滋味。",
     price: "NT$ 1,280",
     unit: "5 台斤 / 箱",
